@@ -22,7 +22,7 @@ os.environ['SDL_VIDEO_CENTERED'] = '1'
 win_size = (1280, 720)
 
 #Maximum frames per second
-max_fps = 30
+max_fps = 60
 
 #Forces an 'up' orientation when True, free-camera when False
 gimbal_lock = False
